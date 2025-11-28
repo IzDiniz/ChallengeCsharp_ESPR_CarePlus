@@ -1,0 +1,14 @@
+C:\Users\iagoz\OneDrive\Área de Trabalho\Geral\Csharp_Trabalhos\Challenge\ChallengeFIAP\ChallengeFIAP\bin\Debug\net8.0\ChallengeFIAP.exe
+C:\Users\iagoz\OneDrive\Área de Trabalho\Geral\Csharp_Trabalhos\Challenge\ChallengeFIAP\ChallengeFIAP\bin\Debug\net8.0\ChallengeFIAP.deps.json
+C:\Users\iagoz\OneDrive\Área de Trabalho\Geral\Csharp_Trabalhos\Challenge\ChallengeFIAP\ChallengeFIAP\bin\Debug\net8.0\ChallengeFIAP.runtimeconfig.json
+C:\Users\iagoz\OneDrive\Área de Trabalho\Geral\Csharp_Trabalhos\Challenge\ChallengeFIAP\ChallengeFIAP\bin\Debug\net8.0\ChallengeFIAP.dll
+C:\Users\iagoz\OneDrive\Área de Trabalho\Geral\Csharp_Trabalhos\Challenge\ChallengeFIAP\ChallengeFIAP\bin\Debug\net8.0\ChallengeFIAP.pdb
+C:\Users\iagoz\OneDrive\Área de Trabalho\Geral\Csharp_Trabalhos\Challenge\ChallengeFIAP\ChallengeFIAP\obj\Debug\net8.0\ChallengeFIAP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iagoz\OneDrive\Área de Trabalho\Geral\Csharp_Trabalhos\Challenge\ChallengeFIAP\ChallengeFIAP\obj\Debug\net8.0\ChallengeFIAP.AssemblyInfoInputs.cache
+C:\Users\iagoz\OneDrive\Área de Trabalho\Geral\Csharp_Trabalhos\Challenge\ChallengeFIAP\ChallengeFIAP\obj\Debug\net8.0\ChallengeFIAP.AssemblyInfo.cs
+C:\Users\iagoz\OneDrive\Área de Trabalho\Geral\Csharp_Trabalhos\Challenge\ChallengeFIAP\ChallengeFIAP\obj\Debug\net8.0\ChallengeFIAP.csproj.CoreCompileInputs.cache
+C:\Users\iagoz\OneDrive\Área de Trabalho\Geral\Csharp_Trabalhos\Challenge\ChallengeFIAP\ChallengeFIAP\obj\Debug\net8.0\ChallengeFIAP.dll
+C:\Users\iagoz\OneDrive\Área de Trabalho\Geral\Csharp_Trabalhos\Challenge\ChallengeFIAP\ChallengeFIAP\obj\Debug\net8.0\refint\ChallengeFIAP.dll
+C:\Users\iagoz\OneDrive\Área de Trabalho\Geral\Csharp_Trabalhos\Challenge\ChallengeFIAP\ChallengeFIAP\obj\Debug\net8.0\ChallengeFIAP.pdb
+C:\Users\iagoz\OneDrive\Área de Trabalho\Geral\Csharp_Trabalhos\Challenge\ChallengeFIAP\ChallengeFIAP\obj\Debug\net8.0\ChallengeFIAP.genruntimeconfig.cache
+C:\Users\iagoz\OneDrive\Área de Trabalho\Geral\Csharp_Trabalhos\Challenge\ChallengeFIAP\ChallengeFIAP\obj\Debug\net8.0\ref\ChallengeFIAP.dll
